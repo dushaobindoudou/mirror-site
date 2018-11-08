@@ -23,6 +23,9 @@ http://get.daocloud.io/
 
 http://maven.aliyun.com/mvn/view
 
+## 阿里云镜像
+https://opsx.alibaba.com/mirror
+
 ## 网易各种镜像
 
 http://mirrors.163.com/
