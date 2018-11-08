@@ -3,6 +3,22 @@
 ## npm 
 http://npm.taobao.org/
 
+|  支持的镜像       |      地址     |
+|-----------------|:-------------:|
+|  npm            |  https://npm.taobao.org/mirrors/npm/             |
+|  nodejs         |  http://npm.taobao.org/mirrors/node              |
+|  alinode        |  http://npm.taobao.org/mirrors/alinode           |
+|  phantomjs      |  http://npm.taobao.org/mirrors/phantomjs         |
+|  ChromeDriver   |  http://npm.taobao.org/mirrors/chromedriver      |
+|  OperaDriver    |  http://npm.taobao.org/mirrors/operadriver       |
+|  Selenium       |  http://npm.taobao.org/mirrors/selenium          |
+|  electron       |  https://npm.taobao.org/mirrors/electron/        |
+|  node-inspecto  |  https://npm.taobao.org/mirrors/node-inspector/  |
+|  node-sass      |  https://npm.taobao.org/mirrors/node-sass/       |
+|  yarn           |  https://npm.taobao.org/mirrors/yarn/            |
+
+
+
 ## ruby
 https://gems.ruby-china.com/
 
