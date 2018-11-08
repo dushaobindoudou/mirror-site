@@ -3,6 +3,8 @@
 ## npm 
 http://npm.taobao.org/
 
+## ruby
+https://gems.ruby-china.com/
 
 ## alpine linux apk
 
